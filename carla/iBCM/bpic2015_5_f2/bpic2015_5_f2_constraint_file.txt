@@ -1,0 +1,2 @@
+exactly(335-335) succession(23-335) last(335-335) exactly(23-23) co_existence(22-23) not_succession(335-23) not_succession(335-22) exactly(22-22) succession(22-335)
+co_existence(19-23) not_succession(335-19) succession(19-335) co_existence(19-22) exactly(19-19)
